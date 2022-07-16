@@ -1,0 +1,4 @@
+"D:\web\pictures\logo.jpg"
+"D:\web\pictures\A.jpg"
+
+"D:/web/pictures/櫻花a.jpg"
